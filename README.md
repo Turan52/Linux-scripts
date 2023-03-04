@@ -1,3 +1,2 @@
 # Linux-scripts
-Simple bash script
-Bash Scripts.
+Simple bash scripts.
